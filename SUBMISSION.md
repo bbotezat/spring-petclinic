@@ -1,0 +1,9 @@
+figures\badge_update_successful_build.png
+figures\github_actions_first_successful_build.png
+figures\pom_maven_coordinates_commented_out_build_failed.png
+figures\pom_maven_coordinates_commented_out.png
+figures\pom_maven_coordinates_fixed_build_success.png
+figures\pom_maven_coordinates_fixed.png
+figures\readme_selected_build_failing.png
+figures\readme_selected_build_passing.png
+figures\updated_readme_badge.png
